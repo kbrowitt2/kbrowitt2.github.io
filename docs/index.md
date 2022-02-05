@@ -1,4 +1,4 @@
-# Welcome to my website
+# **Welcome to my website**!
 
 ### My name is Karmen Browitt. I'm currently a German Master's student at the University of Nebraska - Lincoln. My academic interests include German literature and working within the digital humanities field. 
 
